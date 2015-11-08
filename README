@@ -1,18 +1,14 @@
-Welcome to your Appcelerator Titanium Mobile Project
+This project demonstrates the use of the Facebook module in Appcelerator Studio.
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+As of writing(8.11.15), I am unable to sign in with Facebook, with this module, on iOS 9 (the module has been functioning fine in all projects up until the iOS 9 updates).
 
+I have tested with a Facebook app that was also functioning fine, and a newly created one, without success (I can sign in to these accounts with the same facebook module when built for Android).
+ 
+If this project also fails to sign in for you then it would appear to be a problem with the module, or how it is set up. If you are able to sign in to with facebook, then it would appear to be my Facebook account that is the problem.
 
+The only thing you should need to do to run this project, is to clone it, and then update tiapp.xml to your own settings, and finally set your run configuration.
 
-----------------------------------
-Stuff our legal folk make us say:
+Thanks to anyone that is able to look at this and provide any feedback.
 
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+I can be emailed on paul at hollyer dot me dot uk.
 
