@@ -4,7 +4,7 @@ As of writing(8.11.15), I am unable to sign in with Facebook, with this module, 
 
 I have tested with a Facebook app that was also functioning fine, and a newly created one, without success (I can sign in to these accounts with the same facebook module when built for Android).
  
-If this project also fails to sign in for you then it would appear to be a problem with the module, or how it is set up. If you are able to sign in to with facebook, then it would appear to be my Facebook account that is the problem.
+If this project also fails to sign in for you then it would appear to be a problem with the module, or how it is set up. If you are able to sign in with facebook, then it would appear to be my Facebook account that is the problem.
 
 The only thing you should need to do to run this project, is to clone it, and then update tiapp.xml to your own settings, and finally set your run configuration.
 
